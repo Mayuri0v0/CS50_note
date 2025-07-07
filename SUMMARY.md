@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [CS50](README.md)
+* [0 Scratch](0-scratch.md)
